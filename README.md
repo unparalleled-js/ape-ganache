@@ -1,5 +1,8 @@
 # Quick Start
 
+**NOTE**: The repository has been archived following the deprecation of `ganache`.
+More information: https://github.com/trufflesuite/ganache
+
 Ganache network provider plugin for Ape. Ganache is a tool for creating a local blockchain for fast Ethereum development.
 
 ## Dependencies
